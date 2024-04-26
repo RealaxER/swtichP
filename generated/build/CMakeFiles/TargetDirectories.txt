@@ -1,0 +1,5 @@
+/home/bhien/GUI-Guider-Projects/switchP/generated/build/CMakeFiles/rebuild_cache.dir
+/home/bhien/GUI-Guider-Projects/switchP/generated/build/CMakeFiles/edit_cache.dir
+/home/bhien/GUI-Guider-Projects/switchP/generated/build/CMakeFiles/panel.dir
+/home/bhien/GUI-Guider-Projects/switchP/generated/build/CMakeFiles/lv_drivers.dir
+/home/bhien/GUI-Guider-Projects/switchP/generated/build/CMakeFiles/lvgl.dir
